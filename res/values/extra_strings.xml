@@ -12,29 +12,29 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="extra_settings_title">Nitrogen Settings</string>
+    <string name="extra_settings_title">Orchidos Extra Settings</string>
 
     <!-- Categories -->
     <string name="button_title">Buttons</string>
-    <string name="gestures_title">Gestures</string>
+    <string name="gestures_title">OrchidOs Gestures</string>
     <string name="lockscreen_title">Lock screen</string>
-    <string name="misc_title">Miscellaneous</string>
+    <string name="misc_title">Orchidos Miscellaneous</string>
     <string name="navbar_title">Navigation bar</string>
     <string name="powermenu_title">Power menu</string>
     <string name="quicksettings_title">Quick Settings</string>
     <string name="recents_title">Recents apps</string>
-    <string name="statusbar_title">Status bar</string>
-    <string name="volume_title">Volume rockers</string>
-    <string name="notifications_title">Notifications</string>
+    <string name="statusbar_title">OrchidOs Status bar Options</string>
+    <string name="volume_title">Volume</string>
+    <string name="notifications_title">OrchidOs Notifications</string>
 
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Reset</string>
     <string name="cancel">Cancel</string>
-    <string name="save">Save</string>
+    <string name="save">Save This</string>
 
     <!-- Three-fingers-swipe to screenshot -->
-    <string name="three_finger_gesture">Swipe to screenshot</string>
-    <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
+    <string name="three_finger_gesture">OrchidOs Screenshot</string>
+    <string name="three_finger_gesture_summary">OrchidOs three finger Screenshot</string>
 
 </resources>
