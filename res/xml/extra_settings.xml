@@ -17,11 +17,16 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
     android:title="@string/extra_settings_title" >
 
-        <!-- Gestures -->
-        <Preference
-            android:key="gestures_category"
-            android:title="@string/gestures_title" 
-            android:fragment="com.extra.settings.fragments.GestureSettings"
-            android:icon="@drawable/ic_settings_gestures"/>
 
+         <!-- addintional info -->
+        <Preference
+        android:key="OrchidOsBanner_animation"
+        android:layout="@layout/OrchidOsBanner_animation"/>
+		
+		<!-- Orchid logo -->
+        <PreferenceScreen
+        android:key="orchid_logo"
+        android:enabled="false"
+        android:layout="@layout/orchid_logo"/>
+		
 </PreferenceScreen>
