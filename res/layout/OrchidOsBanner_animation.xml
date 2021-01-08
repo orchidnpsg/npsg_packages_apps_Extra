@@ -20,7 +20,8 @@
     android:orientation="horizontal" >
 
     <com.airbnb.lottie.LottieAnimationView
-        android:id="@+idOrchidOsBanner_lottie"
+
+        android:id="@+id/OrchidOsBanner_lottie"
         android:layout_width="match_parent"
         android:layout_height="150dp"
         android:layout_gravity="center"

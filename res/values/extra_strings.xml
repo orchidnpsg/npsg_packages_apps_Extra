@@ -12,20 +12,23 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="extra_settings_title">Orchidos Extra Settings</string>
+    <string name="extra_settings_title">OrchidOs Extras</string>
 
     <!-- Categories -->
-    <string name="button_title">Buttons</string>
-    <string name="gestures_title">OrchidOs Gestures</string>
+    <string name="button_title">Buttons Options</string>
+    <string name="gestures_title">More Gestures</string>
     <string name="lockscreen_title">Lock screen</string>
-    <string name="misc_title">Orchidos Miscellaneous</string>
+    <string name="misc_title">OrchidOs Extras</string>
+
     <string name="navbar_title">Navigation bar</string>
-    <string name="powermenu_title">Power menu</string>
+    <string name="powermenu_title">Extra Power menu</string>
     <string name="quicksettings_title">Quick Settings</string>
     <string name="recents_title">Recents apps</string>
-    <string name="statusbar_title">OrchidOs Status bar Options</string>
-    <string name="volume_title">Volume</string>
-    <string name="notifications_title">OrchidOs Notifications</string>
+
+    <string name="statusbar_title">Status bar</string>
+    <string name="volume_title">Audio rockers</string>
+    <string name="notifications_title">Orhidos Notifications</string>
+
 
     <!-- General strings -->
     <string name="ok">OK</string>
